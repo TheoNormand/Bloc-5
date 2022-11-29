@@ -12,6 +12,9 @@ use Exception;
 class Home extends \Core\Controller
 {
 
+
+    
+
     /**
      * Affiche la page d'accueil
      *
