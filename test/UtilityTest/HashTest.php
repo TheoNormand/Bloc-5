@@ -19,9 +19,9 @@ final class HashTest extends TestCase
     /** @test */
     public function generateSaltTest()
     {
-        $HashTest = Hash::generate("Test");
+        $HashTest = Hash::generateSalt("Test");
 
-        
+
     }
 
 }
